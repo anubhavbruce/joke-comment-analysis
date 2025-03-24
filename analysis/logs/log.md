@@ -24,3 +24,15 @@ Write anything that you think would be important for YOU later on.
 
 ---
 
+Date: Mar 24, 2025
+Week number - 1, Mar 17 - 21, 2025
+
+Number of hours: 4 hours
+
+### Rose:
+Successfully scraped video titles and comments from a YouTube channel using the YouTube API, which streamlined the data collection proces
+### Bud:
+Excited to experiment with transformer-based models like BERT to identify the best-performing approach for joke classification.
+### Thorn:
+Handling and interpreting emojis in the comment text poses a significant challenge for accurate classification.
+
