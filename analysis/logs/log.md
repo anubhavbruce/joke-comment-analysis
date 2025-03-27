@@ -27,7 +27,7 @@ Write anything that you think would be important for YOU later on.
 Date: Mar 24, 2025
 Week number - 1, Mar 17 - 21, 2025
 
-Number of hours: 4 hours
+Number of hours: 21 hours
 
 ### Rose:
 Successfully scraped video titles and comments from a YouTube channel using the YouTube API, which streamlined the data collection proces
