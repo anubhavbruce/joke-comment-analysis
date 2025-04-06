@@ -24,3 +24,44 @@ Write anything that you think would be important for YOU later on.
 
 ---
 
+Date: Mar 24, 2025
+Week number - 1, Mar 17 - 21, 2025
+
+Number of hours: 21 hours
+
+### Rose:
+Successfully scraped video titles and comments from a YouTube channel using the YouTube API, which streamlined the data collection proces
+### Bud:
+Excited to experiment with transformer-based models like BERT to identify the best-performing approach for joke classification.
+### Thorn:
+Handling and interpreting emojis in the comment text poses a significant challenge for accurate classification.
+
+---
+
+Date: Mar 28, 2025
+Week number - 2, Mar 24 - 28, 2025
+
+Number of hours: 28 hours
+
+### Rose:
+Began implementing the Reggie/muppet-roberta-base-joke_detector transformer model to build a baseline for classifying comments as jokes or not.
+### Bud:
+Plan to continue fine-tuning the model based on accuracy metrics in the coming week and explore more performance improvements.
+### Thorn:
+Faced computational limitations while running large models, but will transition to Jetstream2 for better processing power and efficiency.
+
+---
+
+Date: Apr 6, 2025
+Week number - 3, Mar 31 - Apr 4, 2025
+
+Number of hours: 26 hours
+
+### Rose:
+Began implementing other transformer model to build a baseline for classifying comments as jokes or not.
+### Bud:
+Plan to continue fine-tuning the model based on accuracy metrics in the coming week and explore more performance improvements.
+### Thorn:
+Faced computational limitations while running large models, but will transition to Jetstream2 for better processing power and efficiency.
+
+---
