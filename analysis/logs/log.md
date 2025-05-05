@@ -24,3 +24,78 @@ Write anything that you think would be important for YOU later on.
 
 ---
 
+Date: Mar 24, 2025
+Week number - 1, Mar 17 - 21, 2025
+
+Number of hours: 21 hours
+
+### Rose:
+Successfully scraped video titles and comments from a YouTube channel using the YouTube API, which streamlined the data collection proces
+### Bud:
+Excited to experiment with transformer-based models like BERT to identify the best-performing approach for joke classification.
+### Thorn:
+Handling and interpreting emojis in the comment text poses a significant challenge for accurate classification.
+
+---
+
+Date: Mar 28, 2025
+Week number - 2, Mar 24 - 28, 2025
+
+Number of hours: 28 hours
+
+### Rose:
+Began implementing the Reggie/muppet-roberta-base-joke_detector transformer model to build a baseline for classifying comments as jokes or not.
+### Bud:
+Plan to continue fine-tuning the model based on accuracy metrics in the coming week and explore more performance improvements.
+### Thorn:
+Faced computational limitations while running large models, but will transition to Jetstream2 for better processing power and efficiency.
+
+---
+
+Date: Apr 4, 2025
+Week number - 3, Mar 31 - Apr 4, 2025
+
+Number of hours: 26 hours
+
+###Rose:
+Tried context-aware classification using the Mistral model with different system prompts; attempted few-shot prompting to improve label accuracy.
+
+###Bud:
+Plan to further explore model behavior under controlled prompt variations or switch to alternative LLMs with better few-shot performance for classification.
+
+###Thorn:
+Despite experimentation, Mistral often returned verbose explanations or unrecognized outputs instead of expected labels like “Joke” or “Not a joke.”
+
+---
+
+Date: Apr 11, 2025
+Week number - 4, Apr 7 - 11, 2025
+
+Number of hours: 24 hours
+
+###Rose:
+Achieved 85% accuracy by fine-tuning BERT-based models with careful hyperparameter tuning (4 epochs, dropout=0.2) and thorough data preprocessing.
+
+###Bud:
+Looking forward to deploying the current best-performing model in a small-scale UI for demonstration and collecting real-world feedback.
+
+###Thorn:
+SMOTE and back-translation for data balancing yielded no significant gains; instead, they introduced overfitting or repetition without improving model robustness.
+
+---
+
+Date: Apr 18, 2025
+Week number - 5, Apr 14 - 25, 2025
+
+Number of hours: 47 hours
+
+###Rose:
+Refined dataset preprocessing to ensure clean labeling and converted inputs into TensorFlow-compatible format for better training pipeline integration.
+
+###Bud:
+Plan to test alternative models like distilBERT or fine-tuned small LLMs with clearer prompt control to overcome current LLM limitations.
+
+###Thorn:
+Faced limitations with Mistral’s predictability in prompt responses; efforts to force concise outputs were not consistently successful.
+
+---
